@@ -6,16 +6,16 @@ highlighter: rouge
 lsi: false
 permalink: /:title
 
-title: "Your Name"
-description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+title: "Lennex ZInyando"
+description: "My personal blog"
 baseurl: ""
-url: "http://himsel.me" # replace by your site's url
-twitter_username: your-name
-github_username:  lukas-h # (your name)
+url: "http://zinyando.com" # replace by your site's url
+twitter_username: zinyando
+github_username:  zinyando # (your name)
 accent: "#f7f7e6" # accent color for blog column
 
-author: "Your Name"
-address: "Your Street, <br>Your City, Country"
+author: "Lennex Zinyando"
+address: "5764 Kamba St, <br>Zimre Park, <br>Ruwa, <br>Country"
 email: "your@email.com"
 
 # google analytics tracking code, please change the value
