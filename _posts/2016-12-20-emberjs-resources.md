@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "A List of Ember.js Resources"
+tags: ['ember.js', 'javascript']
 date:   2016-12-20 08:00:00 +0200
 ---
 
-I have seen many tweets from new Ember.js users about where they can find the best resources for learning Ember. I have compiled a list of Ember.js specific resources below. I hope many people will find this useful. If I have missed any please create a PR and send to the [github](https://github.com/zinyando/emberjs-resources) repo. 
+I have seen many tweets from new Ember.js users about where they can find the best resources for learning Ember. I have compiled a list of Ember.js specific resources below. I hope many people will find this useful. If I have missed any please create a PR and send to the [github](https://github.com/zinyando/emberjs-resources) repo.
 
 ## Core
 
