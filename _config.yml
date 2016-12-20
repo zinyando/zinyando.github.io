@@ -7,7 +7,7 @@ lsi: false
 permalink: /:title
 
 title: "Lennex ZInyando"
-description: "My name is Lennex Zinyando. I am a Javacript frontend developer based in Harare, Zimbabwe. This blog will document my adventures as a developers as well as a place to post new things that I learn daily"
+description: "My name is Lennex Zinyando. I am a Javascript frontend developer based in Harare, Zimbabwe. This blog will document my adventures as a developer as well as a place to post new things that I learn daily"
 baseurl: ""
 url: "http://zinyando.com" # replace by your site's url
 twitter_username: zinyando
