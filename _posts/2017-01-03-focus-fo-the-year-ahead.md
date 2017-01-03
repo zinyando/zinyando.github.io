@@ -22,9 +22,9 @@ I also got interviewed on my first podcast. If you have time please listen to it
 
 I certainly missed on some goals
 
-* I failed to read as much as I wanted to
-* I didn't get to workout as often as I plan to
-* I didn't get to learn any new skill or hobby outside of programming
+1. I failed to read as much as I wanted to
+2. I didn't get to workout as often as I plan to
+3. I didn't get to learn any new skill or hobby outside of programming
 
 These misses will definitely be given another chance this year. Lets take a look at the main goals for the next year.
 
@@ -32,11 +32,11 @@ These misses will definitely be given another chance this year. Lets take a look
 
 My goals for 2017 remain largely the same as those from last year since I didn't achieve most of them.
 
-* become a better developer
-* contribute more to open source projects
-* gain some weight, workout and jog consistently
-* read at least one book a month
-* learn a new skill thats outside of programming and software development
+1. become a better developer
+2. contribute more to open source projects
+3. gain some weight, workout and jog consistently
+4. read at least one book a month
+5. learn a new skill thats outside of programming and software development
 
 Some goals are too personal to share but yes they are there. I hope I won't start slacking on my goals early in the year so when you see me wish me luck and give me some encouragement.
 
